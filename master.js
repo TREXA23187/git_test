@@ -6,3 +6,4 @@ const log = content => console.log(content)
 
 log((a++,2))
 log(c)
+log(a+b)
