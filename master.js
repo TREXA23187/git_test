@@ -8,3 +8,4 @@ const calCircle = r => pi*r*r
 log((a++,2))
 log(c)
 log(a+b)
+log(calCircle(b))
