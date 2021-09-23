@@ -5,4 +5,4 @@ const pi = 3.14
 const log = content => console.log(content)
 
 log((a++,2))
-log(a)
+log(c)
